@@ -1,6 +1,8 @@
 # Petrozavodsk Programming Camp Editorial(Solution)
 
-## Info
+
+## Information
+
 
 ## ✅Available Editorial
 ### Summer
