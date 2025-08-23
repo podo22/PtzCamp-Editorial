@@ -32,7 +32,7 @@
 
 |||
 |:-|:-|
-| [**2021**](../../tree/main/Summer%202021) | **Day 1: Kyoto U Contest 1***(JP)* |
+| [**2021**](../../tree/main/Summer%202021) | **Day 1: Kyoto U Contest 1** _(JP)_ |
 | | **Day 2: The American Contest** |
 | | **Day 3: IQ test by kefaa2, antontrygubO_o, and gepardo** |
 | | ~~Day 4: 2021 Shanghai ICPC Camp Onsite 1 by PKU~~ |
