@@ -2,7 +2,7 @@
 
 
 ## :information_source: Information
-* All competition names are based on the [*baekjoon*](https://www.acmicpc.net/).
+* All competition names are based on the [*baekjoon*](https://noj.am/).
 * Some of the missing editorial pieces were created by piecing them together.
 
 ## :white_check_mark: Available Editorial
