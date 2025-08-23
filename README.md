@@ -52,7 +52,7 @@
 | | **Day 7: HSE Koresha Contest** | EN |
 
 ### Winter
-| [**2017**](../../tree/main/Winter%202017) | [**2018**](../../tree/main/Winter%202018) | [**2019**](../../tree/main/Winter%202019) | [**2020**](../../tree/main/Winter%202020) |
+| [**2017**](../../tree/main/Winter%202017) | [**2018**](../../tree/main/Winter%202018) | [**2019**](../../tree/main/Winter%202019) | [**2020**](../../tree/main/Winter%202020) | [**2021**](../../tree/main/Winter%202021) | [**2022**](../../tree/main/Winter%202022) |
 |-|-|-|-|
 
 |Year|Name|Language|
