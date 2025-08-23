@@ -11,7 +11,7 @@
 
 |||
 |:-|:-|
-| [2019](../../tree/main/Summer%202019) | Day 1: Songyang Chen Contest 2 |
+| [**2019**](../../tree/main/Summer%202019) | **Day 1: Songyang Chen Contest 2** |
 | | **Day 2: 300iq Contest 2** |
 | | **Day 3: Quailty and His Friends’ Contest** |
 | | ~~Day 4: Oleksandr Kulkov Contest 2~~ |
@@ -21,8 +21,9 @@
 | | **Day 8: Jingzhe Tang Contest 2, XIX Open Cup Onsite** |
 | | **Day 9: MEX Foundation Contest** |
 
-| [2020](../../tree/main/Summer%202020) | ~~Day 1: Warsaw U Contest~~ |
-|:---|:---|
+|||
+|:-|:-|
+| [**2020**](../../tree/main/Summer%202020) | ~~Day 1: Warsaw U Contest~~ |
 | | **Day 2: SPb SU LOUD ENOUGH Contest** |
 | | **Day 3: Songyang Chen Contest 3** |
 | | **Day 4: Xi Lin Contest 6** |
