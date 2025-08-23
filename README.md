@@ -57,12 +57,12 @@
 
 |Year|Name|Language|
 |:-|:-|:-|
-| [**2017**](../../tree/main/Winter%202017) | **Day 1: Jagiellonian U Contest** | - |
-| | **Day 2: Xiaoxu Guo Contest** | EN |
-| | **Day 3: Japanese Contest, Head of Republic of Karelia Cup, Round I** | EN |
-| | **Day 4: Yandex Cup 2017** | EN |
-| | **Day 5: Tsinghua U Deep Dark Fantasy Contest** | EN |
-| | ~~Day 6: Gennady Korotkevich Contest 2, Head of Republic of Karelia Cup, Round II~~ | EN |
-| | ~~Day 7: National Taiwan U Contest~~ | EN |
-| | ~~Day 8: Japanese Contest~~ | EN |
-| | **Day 9. Xi Lin Contest, Grand Prix of China** | EN |
+| [**2017**](../../tree/main/Winter%202017) | **Day 1: Jagiellonian U Contest** | CN |
+| | **Day 2: Xiaoxu Guo Contest** | CN |
+| | **Day 3: Japanese Contest, Head of Republic of Karelia Cup, Round I** | CN |
+| | **Day 4: Yandex Cup 2017** | CN |
+| | **Day 5: Tsinghua U Deep Dark Fantasy Contest** | CN |
+| | ~~Day 6: Gennady Korotkevich Contest 2, Head of Republic of Karelia Cup, Round II~~ | - |
+| | ~~Day 7: National Taiwan U Contest~~ | - |
+| | ~~Day 8: Japanese Contest~~ | - |
+| | **Day 9. Xi Lin Contest, Grand Prix of China** | CN |
