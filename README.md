@@ -50,4 +50,19 @@
 | | **Day 5: ZJU Contest 2** | EN |
 | | **Day 6: Heltion Contest** | EN |
 | | **Day 7: HSE Koresha Contest** | EN |
+
 ### Winter
+| [**2017**](../../tree/main/Winter%202017) | [**2018**](../../tree/main/Winter%202018) | [**2019**](../../tree/main/Winter%202019) | [**2020**](../../tree/main/Winter%202020) |
+|-|-|-|-|
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2017**](../../tree/main/Winter%202017) | **Day 1: Jagiellonian U Contest** | - |
+| | **Day 2: Xiaoxu Guo Contest** | EN |
+| | **Day 3: Japanese Contest, Head of Republic of Karelia Cup, Round I** | EN |
+| | **Day 4: Yandex Cup 2017** | EN |
+| | **Day 5: Tsinghua U Deep Dark Fantasy Contest** | EN |
+| | ~~Day 6: Gennady Korotkevich Contest 2, Head of Republic of Karelia Cup, Round II~~ | EN |
+| | ~~Day 7: National Taiwan U Contest~~ | EN |
+| | ~~Day 8: Japanese Contest~~ | EN |
+| | **Day 9. Xi Lin Contest, Grand Prix of China** | EN |
