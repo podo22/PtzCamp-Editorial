@@ -2,7 +2,7 @@
 
 
 ## :information_source: Information
-* All contest names are based on the ***baekjoon***.
+* All contest names are based on ***baekjoon***.
 * Some of the missing editorial pieces were created by piecing them together.
 
 ## :white_check_mark: Available Editorial
