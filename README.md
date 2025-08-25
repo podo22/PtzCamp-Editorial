@@ -66,3 +66,60 @@
 | | ~~Day 7: National Taiwan U Contest~~ | - |
 | | ~~Day 8: Japanese Contest~~ | - |
 | | **Day 9. Xi Lin Contest, Grand Prix of China** | CN |
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2018**](../../tree/main/Winter%202018) | ~~Day 1: Jagiellonian U Contest~~ | - |
+| | **Day 2: ITMO U 1 Contest** | EN |
+| | **Day 3: AtCoder Contest** | EN+JP |
+| | ~~Day 4: Yandex Cup 2018~~ | - |
+| | **Day 5: Grand Prix of Korea** | EN |
+| | ~~Day 6: Gennady Korotkevich Contest 3, Grand Prix of Gomel~~ | - |
+| | ~~Day 7: Ruyi Ji Contest 3~~ | - |
+| | ~~Day 8: Saratov SU Contest~~ | - |
+| | ~~Day 9: Carnegie Mellon U Contest~~ | - |
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2019**](../../tree/main/Winter%202019) | **Day 1: 300iq Contest** | EN |
+| | **Day 2: Jingzhe Tang Contest** | EN |
+| | **Day 3: Japanese Contest** | EN |
+| | **Day 4: Yandex Cup** | EN |
+| | ~~Day 5: Gennady Korotkevich Contest 4~~ | - |
+| | **Day 6: Belarusian SU Contest** | EN |
+| | **Day 7: Oleksandr Kulkov Contest 1, Botan Investment Cup** | EN |
+| | ~~Day 8: Petrozavodsk SU Contest~~ | - |
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2020**](../../tree/main/Winter%202020) | **Day 1: SPb SU Contest** | EN |
+| | **Day 2: Greetings from Japan** | EN |
+| | **Day 3: 300iq Petrozavodsk Contest III** | EN |
+| | ~~Day 4: Yandex Cup 2020~~ | - |
+| | **Day 5: Ja giellonian U Contest** | EN |
+| | ~~Day 6: Lviv NU Contest~~ | - |
+| | **Day 7: Gennady Korotkevich Contest 5** | EN |
+| | **Day 8: Almost Algoritmic Contest** | EN |
+| | ~~Day 9: Yuhao Du Contest 7~~ | - |
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2021**](../../tree/main/Winter%202021) | **Day 1: Jagiellonian U Contest, Grand Prix of Krakow** | EN |
+| | **Day 2: UPC Contest** | EN |
+| | ~~Day 3: Nordic+ Contest 2020~~ | - |
+| | **Day 4: PKU Contest 1, ICPC Camp Day 2** | EN |
+| | **Day 5: Almost Retired Dandelion Contest, ICPC Camp Contest 2** | EN |
+| | ~~Day 6: PKU Contest 2~~ | - |
+| | ~~Day 7: North American Contest 1~~ | - |
+| | **Day 8: Belarusian SU Contest, Yandex Cup, Grand Prix of Belarud** | EN |
+| | ~~Day 9: Grand Prix of Suwon~~ | - |
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2022**](../../tree/main/Winter%202022) | **Day 1: Kyoto U Contest 2** | JP |
+| | **Day 2: Grand Prix of Daejeon** | EN |
+| | **Day 3: Kazakhstan Contest** | EN |
+| | **Day 4: NCPC+BAPC+CTU 2021 Selection** | EN |
+| | **Day 5: Yandex Cup** | EN |
+| | **Day 6: ICPC Camp Day 1: PKU Contest** | EN |
+| | **Day 7: ICPC Camp Day 2, Gennady Korotkevich Contest 6** | EN |
