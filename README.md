@@ -7,8 +7,8 @@
 
 ## :white_check_mark: Available Editorial
 ### Summer
-| [**2019**](../../tree/main/Summer%202019) | [**2020**](../../tree/main/Summer%202020) | [**2021**](../../tree/main/Summer%202021) | [**2022**](../../tree/main/Summer%202022) |
-|-|-|-|-|
+| [**2019**](../../tree/main/Summer%202019) | [**2020**](../../tree/main/Summer%202020) | [**2021**](../../tree/main/Summer%202021) | [**2022**](../../tree/main/Summer%202022) | [**2023**](../../tree/main/Summer%202023) | [**2024**](../../tree/main/Summer%202024) |
+|-|-|-|-|-|-|
 
 |Year|Name|Language|
 |:-|:-|:-|
@@ -51,9 +51,29 @@
 | | **Day 6: Heltion Contest** | EN |
 | | **Day 7: HSE Koresha Contest** | EN |
 
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2023**](../../tree/main/Summer%202023) | **Day 1: Starting Contest** | EN |
+| | ~~Day 2: Nyatl Contest 2023~~ | - |
+| | ~~Day 3: ABalobanov Contest 1 supported by Pinely~~ | - |
+| | **Day 4: SPb SU Contest, LVII SPb SU Championship** | EN |
+| | **Day 5: Moscow IPT Yolki-Palki Contest 1** | EN |
+| | **Day 6: olmrgcsi And His Friends’ Contest** | EN |
+| | **Day 7: Peking U Contest** | EN |
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2024**](../../tree/main/Summer%202024) | **Day 1: Welcome Contest** | EN |
+| | **Day 2: K-ontest** | KR |
+| | ~~Day 3: THird roUnd~~ | - |
+| | **Day 4: Danil Zashikhin && Atilla Gün Contest, supported by Pinely** | EN |
+| | **Day 5: Der Kontest** | EN |
+| | ~~Day 6: Nyatl’s Game Contest~~ | - |
+| | ~~Day 7: Farewell Contest~~ | - |
+
 ### Winter
-| [**2017**](../../tree/main/Winter%202017) | [**2018**](../../tree/main/Winter%202018) | [**2019**](../../tree/main/Winter%202019) | [**2020**](../../tree/main/Winter%202020) | [**2021**](../../tree/main/Winter%202021) | [**2022**](../../tree/main/Winter%202022) |
-|-|-|-|-|-|-|
+| [**2017**](../../tree/main/Winter%202017) | [**2018**](../../tree/main/Winter%202018) | [**2019**](../../tree/main/Winter%202019) | [**2020**](../../tree/main/Winter%202020) | [**2021**](../../tree/main/Winter%202021) | [**2022**](../../tree/main/Winter%202022) | [**2023**](../../tree/main/Winter%202023) | [**2024**](../../tree/main/Winter%202024) |
+|-|-|-|-|-|-|-|-|
 
 |Year|Name|Language|
 |:-|:-|:-|
@@ -123,3 +143,25 @@
 | | **Day 5: Yandex Cup** | EN |
 | | **Day 6: ICPC Camp Day 1: PKU Contest** | EN |
 | | **Day 7: ICPC Camp Day 2, Gennady Korotkevich Contest 6** | EN |
+
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2023**](../../tree/main/Winter%202023) | **Day 1: JAGain in Petrozavodsk** | JP |
+| | **Day 2: GP of ainta** | EN |
+| | **Day 3: 2023 ICPC Asia Hong Kong Regional** | EN |
+| | **Day 4: KAIST+KOI Contest, Grand Prix of Korea** | EN |
+| | ~~Day 5: LOUD Enough Contest 2~~ | - |
+| | **Day 6: Um_nik mod 998 244 353 Contest** | EN |
+| | **Day 7: Gennady Korotkevich Contest 7** | EN |
+
+
+|Year|Name|Language|
+|:-|:-|:-|
+| [**2024**](../../tree/main/Winter%202024) | **Day 1: Welcome Contest** | JP |
+| | **Day 2: CCPC Contest 1** | CN |
+| | **Day 3: ZJU Contest** | CN |
+| | **Day 4: Peking U Contest 2** | EN |
+| | ~~Day 5: Belarusian SU Contest~~ | - |
+| | ~~Day 6: K-ontest~~ | - |
+| | **Day 7: Kazakhstan Contest** | EN |
