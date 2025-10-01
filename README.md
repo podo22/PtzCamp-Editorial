@@ -64,7 +64,7 @@
 |Year|Name|Language|
 |:-|:-|:-|
 | [**2024**](../../tree/main/Summer%202024) | **Day 1: Welcome Contest** | EN |
-| | **Day 2: K-ontest** | KR |
+| | **Day 2: K-ontest** | EN |
 | | ~~Day 3: THird roUnd~~ | - |
 | | **Day 4: Danil Zashikhin && Atilla Gün Contest, supported by Pinely** | EN |
 | | **Day 5: Der Kontest** | EN |
