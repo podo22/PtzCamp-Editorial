@@ -126,7 +126,7 @@
 |:-|:-|:-|
 | [**2021**](../../tree/main/Winter%202021) | **Day 1: Jagiellonian U Contest, Grand Prix of Krakow** | EN |
 | | **Day 2: UPC Contest** | EN |
-| | ~~Day 3: Nordic+ Contest 2020~~ | - |
+| | **Day 3: Nordic+ Contest 2020** | EN |
 | | **Day 4: PKU Contest 1, ICPC Camp Day 2** | EN |
 | | **Day 5: Almost Retired Dandelion Contest, ICPC Camp Contest 2** | EN |
 | | ~~Day 6: PKU Contest 2~~ | - |
